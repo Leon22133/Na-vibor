@@ -1,0 +1,15 @@
+D:\ConsoleApp33\ConsoleApp33\bin\Debug\net6.0\ConsoleApp33.exe
+D:\ConsoleApp33\ConsoleApp33\bin\Debug\net6.0\ConsoleApp33.deps.json
+D:\ConsoleApp33\ConsoleApp33\bin\Debug\net6.0\ConsoleApp33.runtimeconfig.json
+D:\ConsoleApp33\ConsoleApp33\bin\Debug\net6.0\ConsoleApp33.dll
+D:\ConsoleApp33\ConsoleApp33\bin\Debug\net6.0\ConsoleApp33.pdb
+D:\ConsoleApp33\ConsoleApp33\obj\Debug\net6.0\ConsoleApp33.csproj.AssemblyReference.cache
+D:\ConsoleApp33\ConsoleApp33\obj\Debug\net6.0\ConsoleApp33.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApp33\ConsoleApp33\obj\Debug\net6.0\ConsoleApp33.AssemblyInfoInputs.cache
+D:\ConsoleApp33\ConsoleApp33\obj\Debug\net6.0\ConsoleApp33.AssemblyInfo.cs
+D:\ConsoleApp33\ConsoleApp33\obj\Debug\net6.0\ConsoleApp33.csproj.CoreCompileInputs.cache
+D:\ConsoleApp33\ConsoleApp33\obj\Debug\net6.0\ConsoleApp33.dll
+D:\ConsoleApp33\ConsoleApp33\obj\Debug\net6.0\refint\ConsoleApp33.dll
+D:\ConsoleApp33\ConsoleApp33\obj\Debug\net6.0\ConsoleApp33.pdb
+D:\ConsoleApp33\ConsoleApp33\obj\Debug\net6.0\ConsoleApp33.genruntimeconfig.cache
+D:\ConsoleApp33\ConsoleApp33\obj\Debug\net6.0\ref\ConsoleApp33.dll
